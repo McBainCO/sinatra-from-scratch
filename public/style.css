@@ -1,3 +1,17 @@
 body {
     background-image: url(http://i.imgur.com/DQPf0IX.jpg);
 }
+
+.not_wide_input {
+    width: 300px
+}
+
+.email_signup {
+    width: 300px;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 100px;
+    text-align: center;
+    padding-top: 25px;
+}
