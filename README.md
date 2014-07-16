@@ -13,3 +13,8 @@ If you finish with the first task, provide a way for Terence to view the emails 
 ## Really suck up to Terence
 
 Show the emails in the database *without* writing any code.
+
+
+## Not showing up. dammit
+
+ http://sheltered-dawn-5626.herokuapp.com/
